@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root {
+    --black-100: #0D0D0D; /* navbar */
+    --black-200: #262626; /* destaque */
+    --grey-100: #8C837B; /* não sabemos*/
+    --brown-100: #736A62; /* não sabemos*/
+    --beige-100: #BFB2A3; /* não sabemos*/
+    --calm: #DCEAF2; /* não sabemos*/
+    --gray-100: #595959; /* fundo */
+    --gray-200: #A6A6A6; /* footer e...  */
+    --white-100: #F2F2F2; /* Letras */
+}
