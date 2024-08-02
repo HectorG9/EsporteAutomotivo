@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 * {
     margin: 0;
     padding: 0;
     list-style: none;
     text-decoration: none;
+    box-sizing: border-box;
 }
 
 :root {
@@ -15,4 +17,10 @@
     --gray-100: #595959; /* fundo */
     --gray-200: #A6A6A6; /* footer e...  */
     --white-100: #F2F2F2; /* Letras */
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: var(--black-200);
+    color: var(--calm);
 }
