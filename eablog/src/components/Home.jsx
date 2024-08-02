@@ -5,7 +5,7 @@ export default function Home() {
     <>
     <Navbar />
     <main>
-      <h1>Bem vindo ao Blog Esporte Automotivo</h1>
+      <h1>Bem vindo ao Blog Esporte Automobilístico</h1>
     </main>
     </>
     

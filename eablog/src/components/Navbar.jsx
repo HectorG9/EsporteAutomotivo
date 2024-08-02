@@ -1,7 +1,9 @@
 import styles from '../styles/navbar.module.css'
+import logo from '../images/logo.png'
 export default function Navbar() {
   return (
     <nav>
+      <img src={logo} alt="" />
         <ul>
           <li>
             <a href="/">Início</a>
