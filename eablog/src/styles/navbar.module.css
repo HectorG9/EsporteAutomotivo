@@ -12,6 +12,7 @@ nav {
     font-family: 'SohoGothicPro';
     src: url('../fontes/Soho-Gothic-Pro/SohoGothicPro-Regular.otf') format(opentype);
 }
+
 img {
     width: 100px;
     object-fit: cover;
