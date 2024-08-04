@@ -1,0 +1,17 @@
+footer {
+    background-color: var(--black-100);
+    color: var(--calm);
+
+}
+p {
+    color: var(--gray-200);
+}
+
+.images {
+    display: flex;
+    gap: 20px;
+}
+.image {
+    width: 20px;
+    object-fit: cover;
+}
