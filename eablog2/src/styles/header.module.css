@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-family: 'A4speed';
+}
+
+header{
+    text-align: center;
+    height: 100vh auto;
+    background-color: var(--gray-100);
+    margin: 20px 8% 10px 5%;
+    border-radius: 10px;
+}
+
+@font-face {
+    font-family: 'A4speed';
+    src: url('../fontes/a4_speed/A4SPEED-Bold.ttf') format('truetype');
+}

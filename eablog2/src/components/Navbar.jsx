@@ -6,16 +6,13 @@ export default function Navbar() {
       <img src={logo} alt="" />
         <ul>
           <li>
-            <a href="/">Início</a>
+            <a href="/" className={styles.navlink}>Início</a>
           </li>
           <li>
-            <a href="/about">Sobre</a>
+            <a href="/about" className={styles.navlink}>Sobre</a>
           </li>
           <li>
-            <a href="/contact">Contato</a>
-          </li>
-          <li>
-            
+            <a href="/contact" className={styles.navlink}>Contato</a>
           </li>
         </ul>
   

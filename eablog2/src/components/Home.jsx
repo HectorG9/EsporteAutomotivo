@@ -1,11 +1,13 @@
 import styles from '../styles/home.module.css';
 import Navbar from './Navbar'
+import Header from './Header';
 export default function Home() {
   return (
     <>
     <Navbar />
+    <Header/>
     <main>
-      <h1>Bem vindo ao Blog Esporte Automobilístico</h1>
+      
     </main>
     </>
     

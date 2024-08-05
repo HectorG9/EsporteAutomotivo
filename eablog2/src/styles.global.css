@@ -14,7 +14,7 @@
     --grey-100: #8C837B; /* não sabemos*/
     --brown-100: #736A62; /* não sabemos*/
     --beige-100: #BFB2A3; /* não sabemos*/
-    --calm: #DCEAF2; /* não sabemos*/
+    --calm: #a4d4f0; /* não sabemos*/
     --gray-100: #595959; /* fundo */
     --gray-200: #A6A6A6; /* footer e...  */
     --white-100: #F2F2F2; /* Letras */
@@ -23,5 +23,5 @@
 body {
     font-family: 'Noto Sans', sans-serif;
     background-color: var(--black-200);
-    color: var(--calm);
+    color: var(--white-100);
 }
