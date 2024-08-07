@@ -8,7 +8,6 @@ nav {
     height: 100px;
     font-family: 'SohoGothicPro';
 }
-
 @font-face{
     font-family: 'SohoGothicPro';
     src: url('../fontes/Soho-Gothic-Pro/SohoGothicPro-Regular.otf') format(opentype);
@@ -29,11 +28,11 @@ li {
     font-size: 22px;
 }
 
-a {
+.navlink {
     color: var(--white-100);
 }
 
-a:hover {
+.navlink:hover {
     color: var(--grey-100);
     padding: 5px;
     transition: 0.5s;
